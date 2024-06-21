@@ -1,0 +1,17 @@
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\bin\Debug\p2.exe.config
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\bin\Debug\p2.exe
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\bin\Debug\p2.pdb
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\bin\Debug\p2.xml
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\obj\Debug\p2.vbproj.AssemblyReference.cache
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\obj\Debug\p2.MainForm.resources
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\obj\Debug\p2.Resources.resources
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\obj\Debug\p2.vbproj.GenerateResource.cache
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\obj\Debug\p2.vbproj.CoreCompileInputs.cache
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\obj\Debug\p2.exe
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\obj\Debug\p2.xml
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\obj\Debug\p2.pdb
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\obj\Debug\p2.CreateSubmissionForm.resources
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\obj\Debug\p2.ViewSubmissionsForm.resources
+C:\Users\imdev\OneDrive\Desktop\vatsa\p2\obj\Debug\p2.vbproj.Up2Date
