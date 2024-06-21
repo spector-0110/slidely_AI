@@ -13,23 +13,29 @@ This is a Windows Forms application developed using Visual Basic (.NET) that all
 ### Main Form
 The main form provides options to either create a new submission or view existing submissions.
 
-![Main Form](path/to/your/images/main_form.jpeg)
+![WhatsApp Image 2024-06-21 at 22 29 08](https://github.com/spector-0110/slidely_AI/assets/113085376/6adc3c33-d08b-4aa5-bf75-ed25c2ea51fc)
+
 
 ### Create Submission
 Users can fill out their details and submit them to the database. The stopwatch feature can be toggled to record the submission time.
 
-![Create Submission](path/to/your/images/create_submission.jpeg)
+![WhatsApp Image 2024-06-21 at 22 31 06](https://github.com/spector-0110/slidely_AI/assets/113085376/807fa5e6-84d0-4c70-870b-ce3d26b8ba10)
+
 
 ### View Submissions
 Users can view details of the submissions stored in the database. They can navigate through the submissions using the previous and next buttons, and delete a selected submission.
 
-![View Submissions](path/to/your/images/view_submissions.jpeg)
-![Submission Deleted](path/to/your/images/submission_deleted.jpeg)
+
+![WhatsApp Image 2024-06-21 at 22 29 40](https://github.com/spector-0110/slidely_AI/assets/113085376/96aa9617-a711-47fe-9db0-a71cf9abcfc5)
+
+![WhatsApp Image 2024-06-21 at 22 30 10 (1)](https://github.com/spector-0110/slidely_AI/assets/113085376/19956345-3853-4d4c-9461-b2636ca57917)
+
 
 ### MongoDB Database
 Submissions are stored in a MongoDB database.
 
-![MongoDB](path/to/your/images/mongodb.jpeg)
+![WhatsApp Image 2024-06-21 at 22 31 32](https://github.com/spector-0110/slidely_AI/assets/113085376/d03303b3-a33a-4bff-97d4-b6d5c7d6200e)
+
 
 ## Requirements
 
