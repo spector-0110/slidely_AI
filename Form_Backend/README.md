@@ -9,8 +9,6 @@ This is a simple backend application for handling form submissions. It's built w
 
 - Create new form submissions
 - Retrieve all form submissions
-- Retrieve a specific form submission
-- Update existing form submissions
 - Delete form submissions
 
 ## Prerequisites
@@ -52,10 +50,8 @@ npm start
 
 ## API Endpoints
 
-- POST /api/forms: Create a new form submission
-- GET /api/forms: Get all form submissions
-- GET /api/forms/:id: Get a specific form submission
-- PUT /api/forms/:id: Update a form submission
+- POST /api/forms/submit: Create a new form submission
+- GET /api/forms/read: Get all form submissions
 - DELETE /api/forms/:id: Delete a form submission
 
 ## Data Model
