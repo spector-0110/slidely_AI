@@ -20,8 +20,8 @@ This is a simple backend application for handling form submissions. It's built w
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/form-submission-backend.git
-   cd form-submission-backend
+   git clone https://github.com/your-username/Form_Backend.git
+   cd Form_Backend
    ```
 
 2. Install dependencies:
